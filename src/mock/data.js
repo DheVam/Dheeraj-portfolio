@@ -18,10 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Hey all,This is Dheeraj Vamshi, an aspiring front end web developer looking for some cool projects. Iam a student currently in pursue of my bachelor’s degree in computer science and engineering. Computers and technology were always my most favorite interests, and that later pulled me towards software development. I consider web development especially UI development is one of the most skillful sector in software development and thereby I have chosen it. Being creative and logical are one of the most important needs of Web Development which pulled me towards it.',
+  paragraphOne:
+    'Hey all,This is Dheeraj Vamshi, an aspiring front end web developer looking for some cool projects. Iam a student currently in pursue of my bachelor’s degree in computer science and engineering. Computers and technology were always my most favorite interests, and that later pulled me towards software development. I consider web development especially UI development is one of the most skillful sector in software development and thereby I have chosen it. Being creative and logical are one of the most important needs of Web Development which pulled me towards it.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1ecMSbPgoGO_EBfBKFMT-xgNuXiyAp3Y-/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -31,7 +32,8 @@ export const projectsData = [
     img: 'Visably.jpg',
     title: 'Visably',
     info: 'Visably tracks brand performance in search.Visably provides measurement, tracking, research, and list-building tools to improve your brand visibility in search.',
-    info2: 'Visably bridges the gap between brand-owned channels and everything else that appears in organic search.',
+    info2:
+      'Visably bridges the gap between brand-owned channels and everything else that appears in organic search.',
     url: 'https://visably.com/',
     repo: '', // if no repo, the button will not show up
   },
